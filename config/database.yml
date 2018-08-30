@@ -1,4 +1,4 @@
-<% project_name = 'rails-api-template' %>
+<% project_name = 'MmunierRailsApi' %>
 
 default: &default
   adapter: postgresql
