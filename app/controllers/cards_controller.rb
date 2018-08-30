@@ -53,3 +53,5 @@ class CardsController < OpenReadController
 
     private :set_card, :card_params
 end
+
+# location: @card from created
