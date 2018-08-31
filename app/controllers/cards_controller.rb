@@ -41,7 +41,7 @@ class CardsController < OpenReadController
 
     head :no_content
   end
-  # Use callbacks to share common setup or constraints between actions.
+    # Use callbacks to share common setup or constraints between actions.
     def set_card
       @card = current_user.cards.find(params[:id])
     end
