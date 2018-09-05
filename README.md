@@ -1,6 +1,6 @@
 # General Assembly WDI Project 2: Rails API Auth Build
 
-!Magic: the Gathering
+![Magic: the Gathering API]
 
 This app represents my second live project with General Assembly. It is a custom built interactive web application for building and storing Matgic: the Gathering decks. It utilizes Saas and a custom built API.
 
