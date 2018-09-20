@@ -6,6 +6,9 @@ This app represents my second live project with General Assembly. It is a custom
 
 ### List of Technologies Used: Postgresql, and Ruby on Rails
 
+Link to Client Repo
+https://github.com/mmunier44/mmunier-mtg
+
 Planning and Creation Process: This project was started with the goal of building a custom API using Ruby on Rails and Postgresql that had at least 4 RESTful routes for handling GET, POST, PUT/PATCH, and DELETE requests. The requirements also specified that any actions that change data must be authenticated (data must be "owned" by the user performing the change) and that the user must have a relationship with at least one resource. The project began by creating entity relationship diagrams to ensure that the project met requirements. I then built out the application using Ruby on Rails. The next stage of the project was to validate the inputs using Postgresql, and ensuring that the Serializer was formating data correctly. Finally, I tested the API using curl scripts and interacted with it using my javascript webapp.
 
 ### Thought Process, Entity Relationship Diagram
